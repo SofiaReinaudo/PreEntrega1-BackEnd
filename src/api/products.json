@@ -1,0 +1,148 @@
+[
+	{
+		"id": 1,
+		"title": "Transportadora Pet Cargo 500",
+		"description": "Transportadora segura y cómoda para tu mascota",
+		"price": 40000,
+		"thumbnail": [
+			"ruta-imagen-1.jpg",
+			"ruta-imagen-21.jpg"
+		],
+		"code": "001",
+		"category": "accesorios",
+		"stock": 50,
+		"status": true
+	},
+	{
+		"id": 2,
+		"title": "Comedero Acero Inoxidable 1.15lts Dogit",
+		"description": "Comedero de acero inoxidable de alta calidad",
+		"price": 15000,
+		"thumbnail": [
+			"ruta-imagen-2.jpg",
+			"ruta-imagen-22.jpg"
+		],
+		"code": "002",
+		"category": "accesorios",
+		"stock": 20,
+		"status": true
+	},
+	{
+		"id": 3,
+		"title": "Juguete Mordedor Kong Classic",
+		"description": "Juguete mordedor resistente y seguro para perros",
+		"price": 8500,
+		"thumbnail": "ruta-imagen-3.jpg",
+		"code": "003",
+		"category": "accesorios",
+		"stock": 30,
+		"status": true
+	},
+	{
+		"id": 4,
+		"title": "Alimento Seco Pro Plan Adulto",
+		"description": "Alimento balanceado para perros adultos",
+		"price": 6400,
+		"thumbnail": [
+			"ruta-imagen-4.jpg",
+			"ruta-imagen-24.jpg"
+		],
+		"code": "004",
+		"category": "alimentos",
+		"stock": 40,
+		"status": true
+	},
+	{
+		"id": 5,
+		"title": "Cama Redonda Donut Beige",
+		"description": "Cama redonda suave y cómoda para mascotas",
+		"price": 32000,
+		"thumbnail": "ruta-imagen-5.jpg",
+		"code": "005",
+		"category": "paños y carpetas",
+		"stock": 50,
+		"status": true
+	},
+	{
+		"id": 6,
+		"title": "Collar Reflectante Safe Cat",
+		"description": "Collar reflectante para gatos con cierre de seguridad",
+		"price": 13500,
+		"thumbnail": [
+			"ruta-imagen-6.jpg",
+			"ruta-imagen-26.jpg"
+		],
+		"code": "006",
+		"category": "accesorios",
+		"stock": 60,
+		"status": true
+	},
+	{
+		"id": 7,
+		"title": "Rascador Catit con Catnip",
+		"description": "Rascador de cartón con catnip para gatos",
+		"price": 6800,
+		"thumbnail": [
+			"ruta-imagen-7.jpg",
+			"ruta-imagen-27.jpg"
+		],
+		"code": "007",
+		"category": "accesorios",
+		"stock": 70,
+		"status": true
+	},
+	{
+		"id": 8,
+		"title": "Pipetas Antiparasitarias Frontline",
+		"description": "Pipetas antiparasitarias para perros y gatos",
+		"price": 6500,
+		"thumbnail": [
+			"ruta-imagen-8.jpg",
+			"ruta-imagen-18.jpg",
+			"ruta-imagen-48.jpg"
+		],
+		"code": "008",
+		"category": "pulguicidas, garrapaticidas y otros",
+		"stock": 110,
+		"status": true
+	},
+	{
+		"id": 9,
+		"title": "Pelota de Tenis Chuckit!",
+		"description": "Pelota de tenis resistente para perros",
+		"price": 2700,
+		"thumbnail": [
+			"ruta-imagen-9.jpg",
+			"ruta-imagen-29.jpg"
+		],
+		"code": "009",
+		"category": "accesorios",
+		"stock": 90,
+		"status": true
+	},
+	{
+		"id": 10,
+		"title": "Correa Retráctil Flexi",
+		"description": "Correa retráctil de alta calidad para perros",
+		"price": 12900,
+		"thumbnail": "ruta-imagen-10.jpg",
+		"code": "010",
+		"category": "accesorios",
+		"stock": 100,
+		"status": true
+	},
+	{
+		"id": 12,
+		"title": "Tea Líquido emulsionable pulguicida",
+		"description": "Tea 327 Líquido pulguicida y garrapaticida emulsionable x70 ml",
+		"price": 9800,
+		"thumbnail": [
+			"ruta-imagen-28.jpg",
+			"ruta-imagen-18.jpg"
+		],
+		"code": "012",
+		"category": "pulguicidas, garrapaticidas y otros",
+		"stock": 90,
+		"status": true
+	}
+]
