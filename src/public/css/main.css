@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(213, 209, 209);
+}
+
+#contenedorProductos{
+    justify-content: space-between; 
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+#containerItems{
+    border: 0px;
+}
+
